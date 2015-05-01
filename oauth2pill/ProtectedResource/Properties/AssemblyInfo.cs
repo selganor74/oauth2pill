@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("oauth2pill")]
+[assembly: AssemblyTitle("ProtectedResource")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("oauth2pill")]
+[assembly: AssemblyProduct("ProtectedResource")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("de4c3425-086a-4e18-8249-978eb6592939")]
+[assembly: Guid("158c235e-c0ad-4037-a300-391ee2c274ec")]
 
 // Version information for an assembly consists of the following four values:
 //
